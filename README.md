@@ -4,3 +4,4 @@
 フロントエンド: HTML, CSS3(SCSS), Bootstrap, Javascript
 バックエンド: PHP, Laravel, Node.js
 DB: MySQL
+サーバー: Heroku
