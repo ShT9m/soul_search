@@ -5,3 +5,7 @@
 バックエンド: PHP, Laravel, Node.js
 DB: MySQL
 サーバー: Heroku
+
+課題
+ストレージにAWS S3を設定する
+テストメールサーバーとしてmailtrapを利用する
