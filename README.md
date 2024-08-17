@@ -7,5 +7,5 @@ DB: MySQL
 サーバー: Heroku
 
 課題
-ストレージにAWS S3を設定する
+ストレージとしてAWS S3を利用する
 テストメールサーバーとしてmailtrapを利用する
